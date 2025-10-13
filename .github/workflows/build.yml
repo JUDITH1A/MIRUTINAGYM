@@ -33,3 +33,4 @@ jobs:
         with:
           name: MIRUTINAGYM-APK
           path: MIRUTINAGYM/app/build/outputs/apk/release/*.apk
+# activar workflow
