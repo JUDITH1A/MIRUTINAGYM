@@ -23,7 +23,7 @@ jobs:
 
       - name: Build APK
         run: |
-          cd MIRUTINAGYM
+          cd .
           chmod +x ./gradlew
           ./gradlew assembleRelease
 
